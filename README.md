@@ -7,5 +7,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 Production URL: https://nextjs-fullstack-alpha.vercel.app/
 
 Try it out
+
 Email: user@nextmail.com
 Password: 123456
